@@ -1,3 +1,1 @@
-print('Hello World')
-
-# Обновлено: добавлен калькулятор
+print('Hello from main!')
